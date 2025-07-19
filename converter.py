@@ -1,3 +1,7 @@
+### converter.py
+# A simple GUI application to convert Spotify playlists to Rekordbox M3U format.
+# Eventually to be an all in one rekordbox soulseek helper - allowing for one to take a spotify playlist, download the tracks from soulseek, and then export to rekordbox.
+
 import pandas as pd
 import os
 import tkinter as tk
